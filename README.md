@@ -1,12 +1,9 @@
-# ClearFlow Free
+# ClearFlow preview downloads
 
-Try ClearFlow on macOS, Windows or the Web App. Sign in to get started and see the details of your free trial.
+Current public preview: [v1.0.0-rc.21-polish](https://github.com/josuenovar/ClearFlow-Free-Downloads/releases/tag/v1.0.0-rc.21-polish).
 
-Download the latest installers from [Releases](https://github.com/josuenovar/ClearFlow-Free-Downloads/releases/tag/v1.0.0-rc.19-free-orbits).
+Includes Android, macOS Universal, and Windows EXE/MSI installers. These are preview
+builds; web updates ship separately at https://app.clearflowapp.com.
 
-- macOS: Intel and Apple Silicon.
-- Windows: x64, EXE and English/Spanish MSI.
-
-This repository distributes installers only; source code and personal builds remain private.
-
-[ClearFlow website](https://clearflowapp.com) · [Web App](https://app.clearflowapp.com)
+Use https://clearflowapp.com for product information and the current download routes.
+Source and recovery archives are maintained in the private ClearFlow repository.
